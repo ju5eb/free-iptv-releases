@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/ju5eb/free-iptv-releases/releases/download/v0.3.0/free-iptv-0.3.0.apk",
-  "notes": "Custom M3U playlists, improved EPG name matching, Google TV support (home banner + D-pad focus), new dark UI and a polished player"
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/ju5eb/free-iptv-releases/releases/download/v0.4.0/free-iptv-0.4.0.apk",
+  "notes": "App icon, compact filters with popular options pinned on top, and a player that keeps playing on Back with a channel side panel"
 }
